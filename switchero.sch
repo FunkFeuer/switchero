@@ -30,7 +30,6 @@ LIBS:contrib
 LIBS:valves
 LIBS:mcp23017
 LIBS:mic2505
-LIBS:switchero-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
