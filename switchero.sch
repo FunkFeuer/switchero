@@ -51,7 +51,7 @@ P 3250 4100
 F 0 "U1" H 3250 3350 60  0000 C CNN
 F 1 "MCP23017" V 3250 4100 60  0000 C CNN
 F 2 "Housings_SSOP:SSOP-28_5.3x10.2mm_Pitch0.65mm" H 3500 4100 60  0001 C CNN
-F 3 "" H 3500 4100 60  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/2243622.pdf" H 3500 4100 60  0001 C CNN
 	1    3250 4100
 	0    1    -1   0   
 $EndComp
@@ -62,7 +62,7 @@ P 6000 1700
 F 0 "U3" H 6000 1450 60  0000 C CNN
 F 1 "MIC2505" V 6000 1700 60  0000 C CNN
 F 2 "SMD_Packages:SOIC-8-N" H 6000 1450 60  0001 C CNN
-F 3 "" H 6000 1450 60  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/29433.pdf" H 6000 1450 60  0001 C CNN
 	1    6000 1700
 	1    0    0    -1  
 $EndComp
@@ -73,7 +73,7 @@ P 2300 2650
 F 0 "P1" H 2300 2850 50  0000 C CNN
 F 1 "ADDR" H 2300 2450 50  0000 C CNN
 F 2 "Buttons_Switches_ThroughHole:SW_DIP_x3_W7.62mm_Slide" H 2300 1450 50  0001 C CNN
-F 3 "" H 2300 1450 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/32987.pdf" H 2300 1450 50  0001 C CNN
 	1    2300 2650
 	-1   0    0    -1  
 $EndComp
@@ -96,7 +96,7 @@ P 2200 3500
 F 0 "R1" V 2280 3500 50  0000 C CNN
 F 1 "4.7k" V 2200 3500 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 2130 3500 50  0001 C CNN
-F 3 "" H 2200 3500 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/1788326.pdf" H 2200 3500 50  0001 C CNN
 	1    2200 3500
 	0    1    -1   0   
 $EndComp
@@ -107,7 +107,7 @@ P 2200 3300
 F 0 "R2" V 2280 3300 50  0000 C CNN
 F 1 "4.7k" V 2200 3300 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 2130 3300 50  0001 C CNN
-F 3 "" H 2200 3300 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/1788326.pdf" H 2200 3300 50  0001 C CNN
 	1    2200 3300
 	0    1    -1   0   
 $EndComp
@@ -118,7 +118,7 @@ P 2200 3100
 F 0 "R3" V 2280 3100 50  0000 C CNN
 F 1 "4.7k" V 2200 3100 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 2130 3100 50  0001 C CNN
-F 3 "" H 2200 3100 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/1788326.pdf" H 2200 3100 50  0001 C CNN
 	1    2200 3100
 	0    1    -1   0   
 $EndComp
@@ -139,7 +139,7 @@ P 2350 750
 F 0 "P2" H 2350 950 50  0000 C CNN
 F 1 "I2C_IN" V 2450 750 50  0000 C CNN
 F 2 "Connectors_JST:JST_XH_B03B-XH-A_03x2.50mm_Straight" H 2350 750 50  0001 C CNN
-F 3 "" H 2350 750 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/2082976.pdf" H 2350 750 50  0001 C CNN
 	1    2350 750 
 	0    -1   -1   0   
 $EndComp
@@ -153,7 +153,7 @@ P 1650 1450
 F 0 "P6" H 1650 1900 50  0000 C CNN
 F 1 "OUT1" V 1750 1450 50  0000 C CNN
 F 2 "Terminal_Blocks:TerminalBlock_WAGO-236_2Stift_RM5mm_8pol" H 1650 1450 50  0001 C CNN
-F 3 "" H 1650 1450 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/63479.pdf" H 1650 1450 50  0001 C CNN
 	1    1650 1450
 	0    -1   -1   0   
 $EndComp
@@ -164,7 +164,7 @@ P 2600 1450
 F 0 "P5" H 2600 1900 50  0000 C CNN
 F 1 "OUT2" V 2700 1450 50  0000 C CNN
 F 2 "Terminal_Blocks:TerminalBlock_WAGO-236_2Stift_RM5mm_8pol" H 2600 1450 50  0001 C CNN
-F 3 "" H 2600 1450 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/63479.pdf" H 2600 1450 50  0001 C CNN
 	1    2600 1450
 	0    -1   -1   0   
 $EndComp
@@ -179,7 +179,7 @@ P 6000 2100
 F 0 "C2" H 6025 2200 50  0000 L CNN
 F 1 "0.1u" H 6025 2000 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 6038 1950 50  0001 C CNN
-F 3 "" H 6000 2100 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/1901289.pdf" H 6000 2100 50  0001 C CNN
 	1    6000 2100
 	0    1    1    0   
 $EndComp
@@ -228,7 +228,7 @@ P 6000 2500
 F 0 "U4" H 6000 2250 60  0000 C CNN
 F 1 "MIC2505" V 6000 2500 60  0000 C CNN
 F 2 "SMD_Packages:SOIC-8-N" H 6000 2250 60  0001 C CNN
-F 3 "" H 6000 2250 60  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/29433.pdf" H 6000 2250 60  0001 C CNN
 	1    6000 2500
 	1    0    0    -1  
 $EndComp
@@ -250,7 +250,7 @@ P 6000 2900
 F 0 "C3" H 6025 3000 50  0000 L CNN
 F 1 "0.1u" H 6025 2800 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 6038 2750 50  0001 C CNN
-F 3 "" H 6000 2900 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/1901289.pdf" H 6000 2900 50  0001 C CNN
 	1    6000 2900
 	0    1    1    0   
 $EndComp
@@ -261,7 +261,7 @@ P 6000 3300
 F 0 "U5" H 6000 3050 60  0000 C CNN
 F 1 "MIC2505" V 6000 3300 60  0000 C CNN
 F 2 "SMD_Packages:SOIC-8-N" H 6000 3050 60  0001 C CNN
-F 3 "" H 6000 3050 60  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/29433.pdf" H 6000 3050 60  0001 C CNN
 	1    6000 3300
 	1    0    0    -1  
 $EndComp
@@ -283,7 +283,7 @@ P 6000 3700
 F 0 "C4" H 6025 3800 50  0000 L CNN
 F 1 "0.1u" H 6025 3600 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 6038 3550 50  0001 C CNN
-F 3 "" H 6000 3700 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/1901289.pdf" H 6000 3700 50  0001 C CNN
 	1    6000 3700
 	0    1    1    0   
 $EndComp
@@ -294,7 +294,7 @@ P 6000 4100
 F 0 "U6" H 6000 3850 60  0000 C CNN
 F 1 "MIC2505" V 6000 4100 60  0000 C CNN
 F 2 "SMD_Packages:SOIC-8-N" H 6000 3850 60  0001 C CNN
-F 3 "" H 6000 3850 60  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/29433.pdf" H 6000 3850 60  0001 C CNN
 	1    6000 4100
 	1    0    0    -1  
 $EndComp
@@ -316,7 +316,7 @@ P 6000 4500
 F 0 "C5" H 6025 4600 50  0000 L CNN
 F 1 "0.1u" H 6025 4400 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 6038 4350 50  0001 C CNN
-F 3 "" H 6000 4500 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/1901289.pdf" H 6000 4500 50  0001 C CNN
 	1    6000 4500
 	0    1    1    0   
 $EndComp
@@ -327,7 +327,7 @@ P 6000 900
 F 0 "U2" H 6000 650 60  0000 C CNN
 F 1 "MIC2505" V 6000 900 60  0000 C CNN
 F 2 "SMD_Packages:SOIC-8-N" H 6000 650 60  0001 C CNN
-F 3 "" H 6000 650 60  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/29433.pdf" H 6000 650 60  0001 C CNN
 	1    6000 900 
 	1    0    0    -1  
 $EndComp
@@ -349,7 +349,7 @@ P 6000 1300
 F 0 "C1" H 6025 1400 50  0000 L CNN
 F 1 "0.1u" H 6025 1200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 6038 1150 50  0001 C CNN
-F 3 "" H 6000 1300 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/1901289.pdf" H 6000 1300 50  0001 C CNN
 	1    6000 1300
 	0    1    1    0   
 $EndComp
@@ -360,7 +360,7 @@ P 6000 4900
 F 0 "U7" H 6000 4650 60  0000 C CNN
 F 1 "MIC2505" V 6000 4900 60  0000 C CNN
 F 2 "SMD_Packages:SOIC-8-N" H 6000 4650 60  0001 C CNN
-F 3 "" H 6000 4650 60  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/29433.pdf" H 6000 4650 60  0001 C CNN
 	1    6000 4900
 	1    0    0    -1  
 $EndComp
@@ -382,7 +382,7 @@ P 6000 5300
 F 0 "C6" H 6025 5400 50  0000 L CNN
 F 1 "0.1u" H 6025 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 6038 5150 50  0001 C CNN
-F 3 "" H 6000 5300 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/1901289.pdf" H 6000 5300 50  0001 C CNN
 	1    6000 5300
 	0    1    1    0   
 $EndComp
@@ -393,7 +393,7 @@ P 6000 5700
 F 0 "U8" H 6000 5450 60  0000 C CNN
 F 1 "MIC2505" V 6000 5700 60  0000 C CNN
 F 2 "SMD_Packages:SOIC-8-N" H 6000 5450 60  0001 C CNN
-F 3 "" H 6000 5450 60  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/29433.pdf" H 6000 5450 60  0001 C CNN
 	1    6000 5700
 	1    0    0    -1  
 $EndComp
@@ -415,7 +415,7 @@ P 6000 6100
 F 0 "C7" H 6025 6200 50  0000 L CNN
 F 1 "0.1u" H 6025 6000 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 6038 5950 50  0001 C CNN
-F 3 "" H 6000 6100 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/1901289.pdf" H 6000 6100 50  0001 C CNN
 	1    6000 6100
 	0    1    1    0   
 $EndComp
@@ -426,7 +426,7 @@ P 6000 6500
 F 0 "U9" H 6000 6250 60  0000 C CNN
 F 1 "MIC2505" V 6000 6500 60  0000 C CNN
 F 2 "SMD_Packages:SOIC-8-N" H 6000 6250 60  0001 C CNN
-F 3 "" H 6000 6250 60  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/29433.pdf" H 6000 6250 60  0001 C CNN
 	1    6000 6500
 	1    0    0    -1  
 $EndComp
@@ -448,7 +448,7 @@ P 6000 6900
 F 0 "C8" H 6025 7000 50  0000 L CNN
 F 1 "0.1u" H 6025 6800 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 6038 6750 50  0001 C CNN
-F 3 "" H 6000 6900 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/1901289.pdf" H 6000 6900 50  0001 C CNN
 	1    6000 6900
 	0    1    1    0   
 $EndComp
@@ -467,7 +467,7 @@ P 1850 750
 F 0 "P4" H 1850 950 50  0000 C CNN
 F 1 "INT" V 1950 750 50  0000 C CNN
 F 2 "Connectors_JST:JST_XH_B03B-XH-A_03x2.50mm_Straight" H 1850 750 50  0001 C CNN
-F 3 "" H 1850 750 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/2082976.pdf" H 1850 750 50  0001 C CNN
 	1    1850 750 
 	0    -1   -1   0   
 $EndComp
@@ -480,7 +480,7 @@ P 2800 750
 F 0 "P7" H 2800 950 50  0000 C CNN
 F 1 "I2C_OUT" V 2900 750 50  0000 C CNN
 F 2 "Connectors_JST:JST_XH_B03B-XH-A_03x2.50mm_Straight" H 2800 750 50  0001 C CNN
-F 3 "" H 2800 750 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/2082976.pdf" H 2800 750 50  0001 C CNN
 	1    2800 750 
 	0    -1   -1   0   
 $EndComp
@@ -684,7 +684,7 @@ P 1350 750
 F 0 "P3" H 1350 1000 50  0000 C CNN
 F 1 "PWR" V 1450 750 50  0000 C CNN
 F 2 "w_conn_pc:conn_hdd_15-24-4449" H 1350 750 50  0001 C CNN
-F 3 "" H 1350 750 50  0000 C CNN
+F 3 "http://www.farnell.com/datasheets/2051845.pdf" H 1350 750 50  0001 C CNN
 	1    1350 750 
 	0    -1   -1   0   
 $EndComp
