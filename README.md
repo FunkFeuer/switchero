@@ -16,4 +16,11 @@ The BoM is available as [CSV file](switchero.csv).
 The board is a 4 layer PCB and about 60x60mm.
 
 This is a quick 3D render of the board:
-![switchero board in 3D](board.png)
+![switchero board in 3D](pics/board.png)
+
+Front and back of an assembled board (pardon the "questionable" soldering work):
+![switchero board front](pics/assembled_front.jpg)
+![switchero board back](pics/assembled_back.jpg)
+
+Mounted with daisy chained I2C for the housing project:
+![switchero board mounted](pics/mounted.jpg)
